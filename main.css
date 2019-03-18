@@ -1,0 +1,22 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Raleway', sans-serif;
+}
+
+h1{
+  text-align: center;
+}
+#output{
+  line-height: 30px;
+}
+.rmv{
+  color:red !important;
+  font-weight: bold;
+  cursor:pointer;
+  float:right;
+}
